@@ -1,0 +1,5 @@
+.vs/
+PostgresBackupTool/bin
+PostgresBackupTool/obj
+PostgresBackupTool.Core/bin
+PostgresBackupTool.Core/obj
